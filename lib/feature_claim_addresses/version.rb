@@ -1,3 +1,3 @@
-module FeatureSiteAddressBook
+module FeatureClaimAddresses
   VERSION = "0.0.1"
 end
